@@ -1,1 +1,50 @@
-theme: jekyll-theme-cayman
+languages: ["sv", "en"]
+
+collections:
+  authors:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "authors"
+    values:
+      layout: "author"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      header:
+        title: Vävnadsbanken - Donationsoperationssalen
+        #background-color: "#2d5986;"
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+      header:
+        title: titles.header
+        background-color: "#2d5986;"
+
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-thumb
+  - jekyll-multiple-languages-plugin
+
+
+urlimg: 	'http://localhost:4000/images/'
+
+
+#       ____              _             __  _
+#      / __ \____ _____ _(_)___  ____ _/ /_(_)___  ____
+#     / /_/ / __ `/ __ `/ / __ \/ __ `/ __/ / __ \/ __ \
+#    / ____/ /_/ / /_/ / / / / / /_/ / /_/ / /_/ / / / /
+#   /_/    \__,_/\__, /_/_/ /_/\__,_/\__/_/\____/_/ /_/
+#               /____/
+#
+paginate: 5                      # Paginates all X entries
+paginate_path: "./blog/page:num"   # Pagination path › Important for blog page in /blog/ to work

@@ -1,0 +1,27 @@
+
+- title: menu.public
+  url: "/"
+  side: left
+
+#- title: menu.profession
+#  url: "/professionen/"
+#  side: left
+
+- title: menu.document
+  url: "/dokument/"
+  side: left
+  dropdown:
+  - title: "Kvalitetshandboken"
+    url: "/docs/KvalitetshandbokVavnadsbankenLund.pdf"
+  - title: "Avtal"
+    url: "/docs/Avtal_genomförande_av_annat_medicinskt_ändamål.doc"
+ 
+
+- title: menu.news
+  url: "/blog/"
+  side: left
+
+
+- title: menu.contact
+  url: "/kontakt/"
+  side: right
