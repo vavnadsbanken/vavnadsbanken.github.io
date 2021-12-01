@@ -11,87 +11,142 @@ permalink: "/allmanheten/"
 lang: sv
 ---
 
-Vävnadsbanken i Lund är Skandinaviens största vävnadsinrättning och vi samarbetar med sjukhus i Sverige, Danmark och Norge. Varje år förmedlar vi cirka tusen donerade vävnader.
+Under 2020/21 bygger Vävnadsbanken ut sina lokaler med en modernt utrustad operationssal för tillvaratagande av vävnader från avlidna som sagt ja till donation för transplantationsändamål. Förutom donationsoperationssalen byggs också en forskningsavdelning som är avsedd att fungera som en testbädd för framtida utvecklingsprojekt.Operationssalen förenklar och utökar möjligheten för tillvaratagande av vävnader och kan även användas i forskningssyfte för tester med vävnader som är donerade för annat medicinskt ändamål. Dagens testbäddar baserade på plastmodeller och dator- eller djurmodeller gör steget till kliniska försök på människor stort vilket bromsar nya medicinska metoder och teknologier från att nå fas II- och III-prövning och på sikt bidra till bättre medicinsk och kirurgisk behandling av levande patienter. Donationsoperationssalen förväntas blir klar under sommaren 2021 och invigas under hösten.
 
-### Vävnadsbankens målsättning:
--	Tillhandahålla vävnader av högsta möjliga kvalité för transplantationsändamål
--	Sprida kunskap om vävnadsdonation och nyttan med vävnadstransplantation
--	Utveckla nya tekniker för att ytterligare förbättra vävnadernas hållbarhet
--	Vara en multivävnadsinrättning för Skandinavien
--	Främja det europeiska och även globala förbättringsarbetet när det gäller säkerheten och värna tillgången av transplantabel vävnad till alla patienter som behöver det
--	Bidra till medicinsk utbildning och kvalitetssäkring
+### Vävnader för transplantation
+Vävnadsbanken tar tillvara donerade vävnader för transplantation: hjärtklaffar, hornhinnor, hörselben, senor och hud. Läs mer hur donerade vävnader används för att behandla allvarliga sjukdomar på  [Region Skånes hemsida](https://vard.skane.se/skanes-universitetssjukhus-sus/om-oss/profilomraden/vavnadsbanken/). .  I samband med donationsoperationen kan vävnader som är donerade till annat medicinskt ändamål tillvaratas för forskning och utbildning. Möjlighet att förvara vävnaderna finns i Vävandsbankens biobanksfaciliteter.
 
-## Att ta ställning till organ- och vävnadsdonation
-Genom att donera organ och vävnader kan du hjälpa andra människor till ett bättre liv. För att organ- och vävnadsdonation vara möjlig behövs människor som är villiga att donera organ och vävnader efter sin död. Transplantationslagen ger varje människa rätt att själv bestämma. Det är ditt beslut och en fördel om dina önskemål finns registrerade. Därför bör du anmäla dig till donationsregistret och även meddela dina närstående att du gjort ett val.  När du har uttryckt din vilja så gäller den. Det blir aldrig aktuellt med donation om medgivande saknas. Generellt, om du inte registrerat ditt ställningstagande i donationsregistret, förväntas du vara positivt inställd till donation.  Du kan läsa mer på [Socialstyrelsens hemsida](https://www.socialstyrelsen.se/donationsregistret/).
+### Annat medicinskt ändamål
+Vävnader som doneras till annat medicinskt ändamål bidrar till medicinska forskningsprojekt inriktade mot att förbättra behandling av sjukdomar, till exempel diabetes och hjärt-kärlsjukdomar. Det omfattar utbildning och kvalitetssäkring av nya behandlingsmetoder. Forskningsprojekten skall vara godkända av en etisk kommitté. Det är ofta vävnadsprover men kan också vara organ som inte används för transplantation.
 
-## Hur går en vävnadsdonation till?
-Speciellt för verksamheten på Skånes universitetssjukhus (SUS) är att Vävnadsbanken är delaktig i hela kedjan från utredning av donatorer, tillvaratagande, preparering och förvaring av vävnad, och slutligen förmedling av vävnaden till användarna. Tillvaratagandet av vävnad kan genomföras på en operationsavdelning i samband med en organdonationsoperation, på patologen i Lund eller inom den rättsmedicinska verksamheten. Personal från Vävnadsbanken kan också åka ut till andra sjukhus och genomföra tillvaratagande av vävnad.
-Vävnader kan tillvaratas upp mot 72 timmar efter döden, eftersom vävnader inte behöver vara försörjda med syresatt blod när tillvaratagandet görs. Tillvaratagen vävnad bearbetas i renrum för att bli transplantabel och garantera steriliteten. 
-<button class="collapsible2" id="yaml">Läs mer</button>
-<div class="content" id="yamldata" markdown="1">
-  För att det ska vara möjligt med vävnadsdonation måste ett blodprov tas inom 24 timmar efter dödsfallet. Detta blodprov kommer att analyseras för att utesluta smittsamma sjukdomar. Varje vardag får personal på Vävnadsbanken inkommande uppgifter om avlidna personer inom region Skåne. En första kontroll innebär att vi ser att tiden sedan dödsfallet inte har passerat 24 timmar. Därefter görs en utredning av donationsviljan som kan vara uttryckt i donationsregistret, på donationskort eller genom att närstående tolkat den avlidnes vilja. En annan förutsättning är att det inte finns några medicinska hinder, i form av vissa sjukdomar.
+# Forskning
+Forskningsprojekt som syftar till att samla kunskap om, förebygga eller förbättra behandling av sjukdomar kan ansöka om att utföra försök vid forskningsenheten vid Vävnadsbanken. Samtliga projekt måste ha godkänd etikprövning.
+
+Vävnadsbanken genomför medicinsk utredning av möjliga donatorer och utreder samtycke till donation. Vävnadskoordinatorerna kontaktar närstående till den presumtiva donatorn. Frågan om donation för annat medicinskt ändamål utreds i samband med samtyckesutredningen. Vävnadskoordinatorerna sköter logistik, tillvaratagande, preparation och förvaring av vävnaderna
+  
+#### Medicinska försök - steg för steg 
+-----------
+<span style="font-weight: bold;font-size:18px;">1. Kontakt</span><button type="button" class="btn btn-primary btn-circle" id="steg1"><i class="fa fa-plus"></i> 
+                            </button>
+<div class="content" id="steg1data" markdown="1">              
+Ta initial kontakt med Vävnadsbanken via e-post eller telefon för att diskutera om försöket är lämpligt för operationssalen.  
+</div>
+-----------
+<span style="font-weight: bold;font-size:18px;">2. Etikprövning</span><button type="button" class="btn btn-primary btn-circle" id="steg2"><i class="fa fa-plus"></i> 
+                            </button>
+<div class="content" id="steg2data" markdown="1">              
+Forskning som avser människor eller använder biologiskt material måste enligt [lag](https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/lag-2003460-om-etikprovning-av-forskning-som_sfs-2003-460) ansöka om godkännande hos [Etikprövningsmyndigheten](https://etikprovningsmyndigheten.se).
+</div>
+-----------
+<span style="font-weight: bold;font-size:18px;">3. Projektbeskrivning</span><button type="button" class="btn btn-primary btn-circle" id="steg3"><i class="fa fa-plus"></i> 
+                            </button>
+<div class="content" id="steg3data" markdown="1">              
+Skicka in en projektbeskrivning till Vävnadsbanken bestående av följande dokument:
+-	Beskrivning av studien och dess syfte
+-	Etiskt godkännande
+-	Förenklad information till närstående
+-	Processbeskrivning
+-	Detaljerade instruktioner för tillvaratagande (se punkt 5) om detta skall utföras av Vävnadsbankens personal
+
+
+Beroende på studien behöver vi även:
+- Remissblad
+- Information till levande donatorer eller donatorer under 15 år
+- Instruktioner för hur donatorerna ska avidentifieras
+- Flödesschema om uttaget är tidskritisk
+</div>
+-----------
+<span style="font-weight: bold;font-size:18px;">4. Avtal</span><button type="button" class="btn btn-primary btn-circle" id="steg4"><i class="fa fa-plus"></i> 
+                            </button>
+<div class="content" id="steg4data" markdown="1">              
+Ett [avtal]({{site.baseurl }}{% link docs/Avtal_genomförande_av_annat_medicinskt_ändamål.doc %}) om projektets omfattning och Vävnadsbankens åtagande skall upprättas
+</div>
+-----------
+<span style="font-weight: bold;font-size:18px;">5. Utbildning och instruktioner</span><button type="button" class="btn btn-primary btn-circle" id="steg5"><i class="fa fa-plus"></i> 
+                            </button>
+<div class="content" id="steg5data" markdown="1">              
+Informera och diskutera med Vävnadsbankens personal hur tillvaratagandet ska gå till. Utarbeta instruktioner med text och bild.
+</div>
+-----------
+<span style="font-weight: bold;font-size:18px;"> 6. Information om salen</span><button type="button" class="btn btn-primary btn-circle" id="steg6"><i class="fa fa-plus"></i> 
+                            </button>
+<div class="content" id="steg6data" markdown="1">              
+Ta del av Vävnadsbankens [informationsmaterial]({{site.baseurl}}{% link pages/utbildning.md %}) för att få vistas på operationssalen.
+</div>
+-----------
+<span style="font-weight: bold;font-size:18px;">7. Försök</span><button type="button" class="btn btn-primary btn-circle" id="steg7"><i class="fa fa-plus"></i> 
+                            </button>
+<div class="content" id="steg7data" markdown="1">              
+Boka tider för försöken via [e-post]((mailto:vavnadsbanken@skane.se) ) eller [telefon 046-17 18 83](tel:046-17 18 83). 
+</div>
+-----------
+
+# Faciliteterna
+<span style="font-weight: bold;font-size:18px;">Kortaccess</span><button type="button" class="btn btn-primary btn-circle" id="kort"><i class="fa fa-plus"></i> 
+                            </button>
+<div class="content" id="kortdata" markdown="1"></div>
+-----------
+
+<span style="font-weight: bold;font-size:18px;">Kontrollrum</span><button type="button" class="btn btn-primary btn-circle" id="kontroll"><i class="fa fa-plus"></i> 
+                            </button>
+<div class="content" id="kontrolldata" markdown="1">
+</div>
+-----------
+<span style="font-weight: bold;font-size:18px;">Ingångar och lastkaj</span><button type="button" class="btn btn-primary btn-circle" id="ingang"><i class="fa fa-plus"></i> 
+                            </button>
+<div class="content" id="ingangdata" markdown="1">
+</div>
+-----------
+
+
+
+<span style="font-weight: bold;font-size:18px;">Brandutbildning</span><button type="button" class="btn btn-primary btn-circle" id="brand"><i class="fa fa-plus"></i> 
+                            </button>
+<div class="content" id="branddata" markdown="1">
+Information om
+- Utrymningsplan, mötesplats.
+- Brandväggar
+</div>
+-----------
+
+# Lagar, direktiv och föreskrifter
+Vävnadsdonation, hantering av mänsklig vävnad och användandet av vävnader vid klinisk forskning regleras av följande EU-direktiv, svensk lag och Socialstyrelsens föreskrifter.
+
+-----------
+
+<span style="font-weight: bold;font-size:18px;">EU-direktiv</span><button type="button" class="btn btn-primary btn-circle" id="eu"><i class="fa fa-plus"></i> 
+                            </button>
+<div class="content" id="eudata" markdown="1">              
+- [Europaparlamentets och rådets direktiv 2004/23/EG](https://eur-lex.europa.eu/legal-content/sv/LSU/?uri=CELEX:32004L0023) av den 31 mars 2004 om fastställande av kvalitets- och säkerhetsnormer för donation, tillvaratagande, kontroll, bearbetning, konservering, förvaring och distribution av mänskliga vävnader och celler.
+- [Kommissionens direktiv 2006/17/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX%3A32006L0017) av den 8 februari 2006 om genomförande av Europaparlamentets och rådets direktiv 2004/23/EG när det gäller vissa tekniska krav för donation, tillvaratagande och kontroll av mänskliga vävnader och celler.
+- [Kommissionens direktiv 2006/86/EG](https://eur-lex.europa.eu/legal-content/SV/ALL/?uri=CELEX%3A32006L0086) av den 24 oktober 2006 om tillämpning av Europaparlamentets och rådets direktiv 2004/23/EG med avseende på spårbar-hetskrav, anmälan av allvarliga biverkningar och komplikationer samt vissa tekniska krav för kodning, bearbetning, konservering, förvaring och distribution av mänskliga vävnader och celler.
+</div>
+-----------
+<span style="font-weight: bold;font-size:18px;">Svensk lag</span><button type="button" class="btn btn-primary btn-circle" id="se"><i class="fa fa-plus"></i> 
+                            </button>
+<div class="content" id="sedata" markdown="1">
+- Lagen [SFS2008:286](https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/lag-2008286-om-kvalitets--och-sakerhetsnormer_sfs-2008-286) om kvalitets- och säkerhetsnormer vid hantering av mänskliga vävnader och celler trädde i kraft den 1 juli 2008 och reglerar hanteringen av mänskliga vävnader och celler för användning på människor eller för tillverkning av läkemedel avsedda för användning på människor. 
+- Förordning SFS 2008:414 om kvalitets- och säkerhetsnormer vid hantering av mänskliga vävnader och celler trädde i kraft 1 juli 2008 och kompletterar lagen SFS 2008:286 med beskrivning av tillstånd och tillsyn, import och export samt krav på register.
+</div>
+-----------
+<span style="font-weight: bold;font-size:18px;">Socialstyrelsens föreskrifter</span><button type="button" class="btn btn-primary btn-circle" id="sos"><i class="fa fa-plus"></i> 
+                            </button>
+<div class="content" id="sosdata" markdown="1">
+- [SOSFS 2009:30](https://www.socialstyrelsen.se/regler-och-riktlinjer/foreskrifter-och-allmanna-rad/konsoliderade-foreskrifter/senaste-version-av-socialstyrelsens-foreskrifter-sosfs-200930-om-donation-och-tillvaratagande-av-vavnader-och-celler/) och [HSLF 2017:34]({{site.baseurl }}{% link docs/HSLF-FS 2017.34.pdf %}) Socialstyrelsens föreskrifter om donation och tillvaratagande av vävnader och celler.
+- [SOSFS 2009:31](https://www.socialstyrelsen.se/regler-och-riktlinjer/foreskrifter-och-allmanna-rad/konsoliderade-foreskrifter/200931-om-vavnadsinrattningar-i-halso--och-sjukvarden-m.m/) och och [HSLF 2017:35]({{site.baseurl }}{% link docs/HSLF-FS 2017.35.pdf %}) Socialstyrelsens föreskrifter om vävnadsinrättningar i hälso- och sjukvården m.m.
+- [SOSFS 2009:32](https://www.socialstyrelsen.se/regler-och-riktlinjer/foreskrifter-och-allmanna-rad/konsoliderade-foreskrifter/200932-om-anvandning-av-vavnader-och-celler-i-halso--och-sjukvarden-och-vid-klinisk-forskning/) och [HSLF 2017:36]({{site.baseurl }}{% link docs/HSLF-FS 2017.36.pdf %}) Socialstyrelsens föreskrifter och allmänna råd om användning av vävnader och celler i hälso- och sjukvården och vid klinisk forskning m.m.
+
 </div>
 
-## Vilka vävnader tillvaratas på Vävnadsbanken i Lund?
-På Vävnadsbanken i Lund tillvaratas <button class="collapsible" id="card">cardiovaskulär vävnad,</button><button class="collapsible" id="eyes">ögonvävnad,</button><button class="collapsible" id="senor">senor,</button><button class="collapsible" id="horselben">hörselben,</button> och <button class="collapsible" id="hud">hud</button> för transplantationsändamål samt <button class="collapsible" id="annat">vävnad för annat medicinskt ändamål</button> från avlidna donatorer. <button class="collapsible" id="hoft">Höftkulor</button> och <button class="collapsible" id="skallben">autologa skallben</button> tillvaratas från levande donator. Dessutom bereds ögondroppar från patientens eget <button class="collapsible" id="serum">serum (autologa serumdroppar)</button>. Klicka på respektive vävnad för mer information. 
-
-<div class="content" id="carddata" markdown="1">
-#### Cardiovaskulär vävnad
-I Sverige föds varje år cirka 800 barn med medfött hjärtfel. En del hjärtfel är så komplicerade att de inte går att laga utan tillgång till reservdelar. För dessa typer av fel kommer de bästa reservdelar från människa. Genom att donera vävnader för transplantationsändamål kan man hjälpa dessa barn till ett mycket bra liv. Även vuxna patienter med klaffel kan få en donerad hjärtklaff implanterad. Både klaffen från stora kroppspulsådern och lungpulsådern kan användas. Förutom hjärtklaffar kan också kärlvävnad (patchar) från lungpulsådern användas till olika rekonstruktioner. 
-Vävnadsbanken tar emot hjärtvävnad från hela Skandinavien. Vävnaderna prepareras i renrum på Vävnadsbanken och fryses sedan ned och förvaras i en kvävetank (-196°C). Här kan de förvaras i upp till 10 år i väntan på en mottagare. Hjärtklaffar och patchar finns i flera storlekar för att kunna passa så många olika patienter som möjligt. 
+-----------
+<span style="font-weight: bold;font-size:18px;">Vävnadsbankens lokala föreskrifter</span><button type="button" class="btn btn-primary btn-circle" id="loc"><i class="fa fa-plus"></i> 
+                            </button>
+<div class="content" id="locdata" markdown="1">
+- [Kvalitetshandboken]( {{site.baseurl }}{% link docs/KvalitetshandbokVavnadsbankenLund.pdf %})
+Mall för avtal med Vävnadsbanken
+- [Avtal]({{site.baseurl }}{% link docs/Avtal_genomförande_av_annat_medicinskt_ändamål.doc %})
 </div>
-<div class="content" id="eyesdata" markdown="1">
-#### Ögonvävnad
-Mellan 600 och 700 hornhinnetransplantationer görs varje år i Sverige men behovet är större och det råder brist på hornhinnor. Sjukdomar eller skador i hornhinnan kan orsaka betydande synnedsättning och smärtor. Man har transplanterat hornhinnor sedan början av 1900-talet. Sedan dess har tekniken utvecklats från att transplantera hela hornhinnan till att idag kunna använda specifika skikt av hornhinnan, vilket ger ett bättre resultat och minskar risken för avstötning. Hornhinnor förvaras i näringslösning fram tills de transplanteras vilket måste ske inom fem veckor från tillvaratagandet.
-Ögonvitan (Sklera) används vid skelningsoperationer eller för att förstärka patientens egen ögonvita. Skleran förvaras i steril sprit och håller ett år.
-</div>
-
-<div class="content" id="senordata" markdown="1">
-#### Senor
-Senor behövs inom ortopedin för att reparera skadade korsband och ligament så att funktionen återställs. Det är ofta unga aktiva personer som får denna typ av transplantation. 
-På Vävnadsbanken i Lund tillvaratas ett 60-tal senor varje år. Efter tillvaratagandet mäts senornas storlek och de läggs i en antibiotikalösning. Senorna kan förvaras i 5 år i - 80°C.
-</div>
-
-
-<div class="content" id="horselbendata" markdown="1">
-#### Hörselben
-Sjukdomar i mellanörat som orsakar hörselnedsättning eller dövhet kan i visa fall åtgärdas genom att transplanera hörselben. De flesta patienter återfår en social hörsel efter en sådan transplantation. Hörselben som kan användas är hammare och städ. Benen förvaras i steril sprit i 5 år.
-</div>
-
-<div class="content" id="huddata" markdown="1">
-#### Hud
-Patienter med livshotande brännskador kan räddas genom hudtransplantation. Huden fungerar som ett temporärt biologiskt förband som påskyndar läkningsprocessen och hjälper patienten att överleva. 
-Den tillvaratagna huden kylförvaras i steril glycerol innan den skickas till Brännskadecentrum på Akademiska sjukhuset i Uppsala för vidare bearbetning. 
-</div>
-
-<div class="content" id="annatdata" markdown="1">
-#### Annat medicinskt ändamål
-Annat medicinskt ändamål innebär att vävnad kan tas tillvara för olika medicinska forskningsprojekt med syfte att ta fram bättre behandling av olika sjukdomar. Alla forskningsprojekt måste först godkännas av Etikprövningsmyndigheten.
-Vävnadsbanken har bland annat ett samarbete med Universitetet i Lund för att tillvara menisker för ett forskningsprojekt som kan leda till bättre behandling vid artros i knä.
-
-Annat medicinskt ändamål kan också innebära kvalitetssäkring och utbildning av behandlingsmetoder. Till exempel tillvaratar Vävnadsbanken en del av tinningbenet för utbildning av öronkirurger och utveckling av nya operationstekniker.
-
-Under 2021 utökar Vävnadsbanken sina lokaler med en stor donationsoperationssal och anslutande faciliteter för forskning.
-</div>
-
-<div class="content" id="hoftdata" markdown="1">
-#### Höftkulor
-Benvävnad från höftkulor kan behövas inom ortopedin för att reparera bendefekter som exempelvis uppkommer i samband med proteslossning i en höftled. 
-Benvävnaden tillvaratas från levande donatorer i samband med primära höftledsoperationer. Den donerade benvävnaden förvaras fryst i - 80°C fram till användandet.  
-
-</div>
-
-<div class="content" id="skallbendata" markdown="1">
-#### Autologa skallben
-Patienter som drabbats av trauma mot huvudet kan ibland behöva opereras på Neurokirurgens operationsavdelning. Under hjärnans läkningsprocess efter operationen måste ibland en bit av skallbenet temporärt avlägsnas. Under tiden förvaras skallbenet sterilt i -80°C på Vävnadsbanken i väntan på återtransplantation.
- 
-</div>
-
-
-<div class="content" id="serumdata" markdown="1">
-#### Autologa serumdroppar
-På Vävnadsbanken bereds ögondroppar från patientens eget serum (autologa serumdroppar). Dropparna används för behandling av patienter som drabbats av torra hornhinnor vid till exempel Sjögrens syndrom. 
-</div>
+-----------
 
 
 

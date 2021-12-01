@@ -1,0 +1,58 @@
+translations:
+  start: The Tissue Bank in Lund 
+  contact: Contact
+  read_more: "Read more"
+  previous_post: "Previous"
+  next_post: "Next"
+  blog_archive: "Archive"
+
+
+titles:
+  home: "Home"
+  vavnadsbanken: "The Tissue Bank in Lund"
+  under_construction: "The website is under construction"
+  header: "The Tissue Bank in Lund - Donation operating room"
+  education: "Practical information"
+  step_by_step: "Step by step"
+  research: "Research projects"
+  practical_information: "Practical information"
+
+
+
+menu:
+  start: "Start"
+  public: "Donum Medicum"
+  profession: "For professionals"
+  research: "Research"
+  step_by_step: "Step by step"
+  document: "Document"
+  education: "Education"
+  news: "News"
+  contact: "Contact"
+
+sidebar:
+  contact: "Contact"
+  email: "E-mail:"
+  address: "Address:"
+  address_line1: "Vävnadsbanken"
+  address_line2: "Baravägen 37"
+  address_line3: "SE-221 85 LUND"
+  show_in_maps: "Show in Google Maps"
+  phone_numbers: "Phone numbers:"
+  phone1: " emergency number"
+  phone2: " heart valves & hearing bones"
+  phone3: " corneas & skin"
+  tel_link1: "+46 46 17 18 83"
+  tel_link2: "+46 46 17 18 83"
+  tel_link3: "+46 46 17 26 38"
+  related: "Related"
+  register: "Donation registry:"
+  vardgivare_skane: "Vårdgivare Skåne:"
+  organdonation: "Organ donation:"
+  sodra: "Södra sjukvårdsregionen:"
+  ethic: "Ethical review:"
+  
+
+
+
+  

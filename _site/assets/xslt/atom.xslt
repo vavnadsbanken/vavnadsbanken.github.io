@@ -137,46 +137,6 @@
 
           
           
-        
-
-              
-
-
-
-          
-          
-        
-
-              
-
-
-
-          
-          
-        
-
-              
-
-
-
-          
-          
-        
-
-              
-
-
-
-          
-          
-        
-
-              
-
-
-
-          
-          
             
             
               <li class="divider"></li>
@@ -199,82 +159,7 @@
 
             
             
-              <li><a  href="http://localhost:4000/">Start</a></li>
-              <li class="divider"></li>
-
-            
-            
-          
-        
-
-              
-
-          
-          
-
-            
-            
-              <li><a  href="http://localhost:4000/allmanheten/">För allmänheten</a></li>
-              <li class="divider"></li>
-
-            
-            
-          
-        
-
-              
-
-          
-          
-
-            
-            
-              <li><a  href="http://localhost:4000/professionen/">För professionen</a></li>
-              <li class="divider"></li>
-
-            
-            
-          
-        
-
-              
-
-          
-          
-
-            
-            
-              <li><a  href="http://localhost:4000/verksamheten/">Forskning</a></li>
-              <li class="divider"></li>
-
-            
-            
-          
-        
-
-              
-
-          
-          
-
-            
-            
-              <li><a  href="http://localhost:4000/steg_for_steg/">Steg för steg</a></li>
-              <li class="divider"></li>
-
-            
-            
-          
-        
-
-              
-
-          
-          
-
-            
-            
-              <li><a  href="http://localhost:4000/utbildning/">Utbildning</a></li>
+              <li><a  href="http://localhost:4000/">Donationsoperationssalen</a></li>
               <li class="divider"></li>
 
             

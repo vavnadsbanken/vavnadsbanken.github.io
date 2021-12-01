@@ -1,25 +1,5 @@
-- title: Start
+- title: Donationsoperationssalen
   url: "/"
-  side: left
-
-- title: För allmänheten
-  url: "/allmanheten/"
-  side: left
-
-- title: För professionen
-  url: "/professionen/"
-  side: left
-
-- title: Forskning
-  url: "/verksamheten/"
-  side: left
-
-- title: "Steg för steg"
-  url: "/steg_for_steg/"
-  side: left
-
-- title: "Utbildning"
-  url: "/utbildning/"
   side: left
 
 - title: Dokument
@@ -33,7 +13,6 @@
 - title: Nyheter
   url: "/blog/"
   side: left
-
 
 - title: Kontakt
   url: "/kontakt/"
