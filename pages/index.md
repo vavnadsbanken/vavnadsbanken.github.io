@@ -46,10 +46,7 @@ Vävnadsbanken genomför medicinsk utredning av möjliga donatorer och utreder s
 #### Medicinska försök - steg för steg 
 
 -----------
-<span style="font-weight: bold;font-size:18px;">4. Avtal</span><button name="button">Click me</button>
+<button name="button">Click me</button>
 
-<div class="content" id="steg4data" markdown="1">              
-Ett [avtal]({{site.baseurl }}{% link docs/Avtal_genomförande_av_annat_medicinskt_ändamål.doc %}) om projektets omfattning och Vävnadsbankens åtagande skall upprättas
-</div>
 -----------
 
