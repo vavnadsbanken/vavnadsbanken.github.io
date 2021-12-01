@@ -12,7 +12,8 @@
 
     <link rel="stylesheet" type="text/css" href="http://localhost:4000/assets/css/styles_feeling_responsive.css">
 
-  
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.0/css/font-awesome.min.css">
+ 
 
 	<script src="http://localhost:4000/assets/js/modernizr.min.js"></script>
 
