@@ -37,3 +37,8 @@ Vävnadsbanken tar tillvara donerade vävnader för transplantation: hjärtklaff
 
 ### Annat medicinskt ändamål
 Vävnader som doneras till annat medicinskt ändamål bidrar till medicinska forskningsprojekt inriktade mot att förbättra behandling av sjukdomar, till exempel diabetes och hjärt-kärlsjukdomar. Det omfattar utbildning och kvalitetssäkring av nya behandlingsmetoder. Forskningsprojekten skall vara godkända av en etisk kommitté. Det är ofta vävnadsprover men kan också vara organ som inte används för transplantation.
+
+# Forskning
+Forskningsprojekt som syftar till att samla kunskap om, förebygga eller förbättra behandling av sjukdomar kan ansöka om att utföra försök vid forskningsenheten vid Vävnadsbanken. Samtliga projekt måste ha godkänd etikprövning.
+
+Vävnadsbanken genomför medicinsk utredning av möjliga donatorer och utreder samtycke till donation. Vävnadskoordinatorerna kontaktar närstående till den presumtiva donatorn. Frågan om donation för annat medicinskt ändamål utreds i samband med samtyckesutredningen. Vävnadskoordinatorerna sköter logistik, tillvaratagande, preparation och förvaring av vävnaderna
