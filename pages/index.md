@@ -46,8 +46,9 @@ Vävnadsbanken genomför medicinsk utredning av möjliga donatorer och utreder s
 #### Medicinska försök - steg för steg 
 
 -----------
-<button type="button" class="btn btn-primary btn-circle" id="kontroll"><i class="fa fa-plus"></i></button>
-
-
+<span style="font-weight: bold;font-size:18px;">1. Kontakt</span><button type="button" class="btn btn-primary btn-circle" id="kontroll"><i class="fa fa-plus"></i></button>
+<div class="content" id="steg1data" markdown="1">              
+Ta initial kontakt med Vävnadsbanken via e-post eller telefon för att diskutera om försöket är lämpligt för operationssalen.  
+</div>
 -----------
 
