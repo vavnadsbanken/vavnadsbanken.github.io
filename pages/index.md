@@ -46,7 +46,8 @@ Vävnadsbanken genomför medicinsk utredning av möjliga donatorer och utreder s
 #### Medicinska försök - steg för steg 
 
 -----------
-<button name="button">Click me</button>
+<button type="button" class="btn btn-primary btn-circle" id="kontroll"><i class="fa fa-plus"></i></button>
+
 
 -----------
 
