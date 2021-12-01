@@ -1,4 +1,4 @@
-I"�<p>Under 2020/21 bygger Vävnadsbanken ut sina lokaler med en modernt utrustad operationssal för tillvaratagande av vävnader från avlidna som sagt ja till donation för transplantationsändamål. Förutom donationsoperationssalen byggs också en forskningsavdelning som är avsedd att fungera som en testbädd för framtida utvecklingsprojekt.Operationssalen förenklar och utökar möjligheten för tillvaratagande av vävnader och kan även användas i forskningssyfte för tester med vävnader som är donerade för annat medicinskt ändamål. Dagens testbäddar baserade på plastmodeller och dator- eller djurmodeller gör steget till kliniska försök på människor stort vilket bromsar nya medicinska metoder och teknologier från att nå fas II- och III-prövning och på sikt bidra till bättre medicinsk och kirurgisk behandling av levande patienter. Donationsoperationssalen förväntas blir klar under sommaren 2021 och invigas under hösten.</p>
+I"�<p>Under 2020/21 bygger Vävnadsbanken ut sina lokaler med en modernt utrustad operationssal för tillvaratagande av vävnader från avlidna som sagt ja till donation för transplantationsändamål. Förutom donationsoperationssalen byggs också en forskningsavdelning som är avsedd att fungera som en testbädd för framtida utvecklingsprojekt.Operationssalen förenklar och utökar möjligheten för tillvaratagande av vävnader och kan även användas i forskningssyfte för tester med vävnader som är donerade för annat medicinskt ändamål. Dagens testbäddar baserade på plastmodeller och dator- eller djurmodeller gör steget till kliniska försök på människor stort vilket bromsar nya medicinska metoder och teknologier från att nå fas II- och III-prövning och på sikt bidra till bättre medicinsk och kirurgisk behandling av levande patienter. Donationsoperationssalen förväntas blir klar under sommaren 2021 och invigas under hösten.</p>
 
 <h3 id="vävnader-för-transplantation">Vävnader för transplantation</h3>
 <p>Vävnadsbanken tar tillvara donerade vävnader för transplantation: hjärtklaffar, hornhinnor, hörselben, senor och hud. Läs mer hur donerade vävnader används för att behandla allvarliga sjukdomar på  <a href="https://vard.skane.se/skanes-universitetssjukhus-sus/om-oss/profilomraden/vavnadsbanken/">Region Skånes hemsida</a>. .  I samband med donationsoperationen kan vävnader som är donerade till annat medicinskt ändamål tillvaratas för forskning och utbildning. Möjlighet att förvara vävnaderna finns i Vävandsbankens biobanksfaciliteter.</p>
@@ -12,9 +12,10 @@
 <p>Vävnadsbanken genomför medicinsk utredning av möjliga donatorer och utreder samtycke till donation. Vävnadskoordinatorerna kontaktar närstående till den presumtiva donatorn. Frågan om donation för annat medicinskt ändamål utreds i samband med samtyckesutredningen. Vävnadskoordinatorerna sköter logistik, tillvaratagande, preparation och förvaring av vävnaderna</p>
 
 <h4 id="medicinska-försök---steg-för-steg">Medicinska försök - steg för steg</h4>
+
 <hr />
-<p><span style="font-weight: bold;font-size:18px;">4. Avtal</span><button type="button" class="btn btn-primary btn-circle" id="steg4"><i class="a"></i> 
-                            </button></p>
+<p><span style="font-weight: bold;font-size:18px;">4. Avtal</span><button name="button">Click me</button></p>
+
 <div class="content" id="steg4data">
   <p>Ett <a href="/docs/Avtal_genomf%C3%B6rande_av_annat_medicinskt_%C3%A4ndam%C3%A5l.doc">avtal</a> om projektets omfattning och Vävnadsbankens åtagande skall upprättas</p>
 </div>
