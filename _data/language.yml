@@ -1,4 +1,24 @@
-global:
-  swedish: Svenska
-  english: English
-  
+info_website: "About This Site"
+archive: "Arkiv"
+blog_archive: "Nyhetsarkiv"
+blog: "Blog"
+comments_headline: "Dialogue &amp; Discussion"
+more: "Mer ›"
+more_articles: "Fler artiklar"
+navigation_title: "Navigation"
+new_blog_entries: "Nyheter"
+next: "Next"
+next_posts: "Next Posts"
+previous: "Previous"
+previous_posts: "Previous Posts"
+read: "Read"
+read_more: "Läs mer&nbsp;›"
+if_you_are_not_redirected_automatically: "If you are not redirected automatically,"
+click_here: "click here"
+next_post_in: "Next Post in"
+previous_post_in: "Previous Post in"
+breadcrumb_start: "Start"
+edit: "Edit"
+this_content_is_open_source: "This content is open source."
+help_improve_it: "Help improve it"
+enter_search_term: "Enter search term and hit enter"

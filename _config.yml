@@ -1,5 +1,3 @@
-languages: ["sv", "en"]
-
 collections:
   authors:
     output: true
@@ -23,7 +21,7 @@ defaults:
     values:
       layout: "default"
       header:
-        title: titles.header
+        title: Vävnadsbanken - Donationsoperationssalen
         background-color: "#2d5986;"
 
 
@@ -32,9 +30,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-paginate
-  - jekyll-thumb
-  - jekyll-multiple-languages-plugin
-
 
 urlimg: 	'http://localhost:4000/images/'
 
@@ -48,3 +43,12 @@ urlimg: 	'http://localhost:4000/images/'
 #
 paginate: 5                      # Paginates all X entries
 paginate_path: "./blog/page:num"   # Pagination path › Important for blog page in /blog/ to work
+
+colors:
+  - name: red
+    hex: '#FF0000'
+  - name: yellow
+    hex: '#FFFF00'
+  - name: blue
+    hex: '#0000FF'
+

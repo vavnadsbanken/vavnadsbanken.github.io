@@ -6,13 +6,11 @@ layout: compress
 <head>
 	{% include _head.html %}
 	<link rel="stylesheet" href="/assets/css/styles.css">
-	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 <body id="top-of-page" class="{{ layout.format }}">
 	{% unless page.skip_boilerplate %}
 	{% include _navigation.html %}
 	{% endunless %}
-
 	{% include _masthead.html %}
 	{{ content }}
 
@@ -23,9 +21,7 @@ layout: compress
 	{% include _footer_scripts.html %}
 	{% include _collapse.html %}
 	{% include _collapse2.html %}
-	{% include _circle_btn.html %}
 	{% include _textexpand.html %}
-
 
 </body>
 

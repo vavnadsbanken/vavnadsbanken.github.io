@@ -1,2 +1,6 @@
+- menu_name: "Om oss"
 
+- name: "Kontakt"
+  url: "/contact/"
+  title: "Kontakt"
 

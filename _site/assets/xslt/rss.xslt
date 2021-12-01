@@ -8,13 +8,13 @@
 		<xsl:text disable-output-escaping="yes"><![CDATA[
 		<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title></title>
+	<title>RSS Feed (Styled)</title>
 
-    <link rel="stylesheet" type="text/css" href="/assets/css/styles_feeling_responsive.css">
+    <link rel="stylesheet" type="text/css" href="http://localhost:4000/assets/css/styles_feeling_responsive.css">
 
   
 
-	<script src="/assets/js/modernizr.min.js"></script>
+	<script src="http://localhost:4000/assets/js/modernizr.min.js"></script>
 
 	<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
 	<script>
@@ -38,13 +38,13 @@
 	
 	
 	
-	<link rel="canonical" href="/assets/xslt/rss.xslt">
+	<link rel="canonical" href="http://localhost:4000/assets/xslt/rss.xslt">
 
 
 	<!-- Facebook Open Graph -->
 	<meta property="og:title" content="RSS Feed (Styled)">
 	<meta property="og:description" content="">
-	<meta property="og:url" content="/assets/xslt/rss.xslt">
+	<meta property="og:url" content="http://localhost:4000/assets/xslt/rss.xslt">
 	<meta property="og:locale" content="en_EN">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="">
@@ -54,7 +54,7 @@
 
 	
 
-	<link type="text/plain" rel="author" href="/humans.txt">
+	<link type="text/plain" rel="author" href="http://localhost:4000/humans.txt">
 
 	
 
@@ -87,10 +87,6 @@
 
 
 	
-
-
-
-
 
 		]]></xsl:text>
 	</head>
@@ -101,7 +97,7 @@
   <nav class="top-bar" role="navigation" data-topbar>
     <ul class="title-area">
       <li class="name">
-      <h1 class="show-for-small-only"><a href="" class="icon-tree"> </a></h1>
+      <h1 class="show-for-small-only"><a href="http://localhost:4000" class="icon-tree"> </a></h1>
     </li>
        <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
       <li class="toggle-topbar menu-icon"><a href="#"><span>Nav</span></a></li>
@@ -141,28 +137,56 @@
 
           
           
+        
+
+              
+
+
+
+          
+          
+        
+
+              
+
+
+
+          
+          
+        
+
+              
+
+
+
+          
+          
+        
+
+              
+
+
+
+          
+          
+        
+
+              
+
+
+
+          
+          
             
             
               <li class="divider"></li>
-              <li><a  href="/kontakt/">Kontakt</a></li>
+              <li><a  href="http://localhost:4000/kontakt/">Kontakt</a></li>
 
             
             
           
         
         
-        <li >
-          
-          
-          <a href="/en/assets/xslt/rss.xslt" >
-🇬🇧</a>
-        </li>
-        <li class="divider"></li>
-        <li  class="active" >
-          
-          <a href="/assets/xslt/rss.xslt" >🇸🇪</a>
-          
-        </li>
       </ul>
 
       <ul class="left">
@@ -175,7 +199,82 @@
 
             
             
-              <li><a  href="/">Donum Medicum</a></li>
+              <li><a  href="http://localhost:4000/">Start</a></li>
+              <li class="divider"></li>
+
+            
+            
+          
+        
+
+              
+
+          
+          
+
+            
+            
+              <li><a  href="http://localhost:4000/allmanheten/">För allmänheten</a></li>
+              <li class="divider"></li>
+
+            
+            
+          
+        
+
+              
+
+          
+          
+
+            
+            
+              <li><a  href="http://localhost:4000/professionen/">För professionen</a></li>
+              <li class="divider"></li>
+
+            
+            
+          
+        
+
+              
+
+          
+          
+
+            
+            
+              <li><a  href="http://localhost:4000/verksamheten/">Forskning</a></li>
+              <li class="divider"></li>
+
+            
+            
+          
+        
+
+              
+
+          
+          
+
+            
+            
+              <li><a  href="http://localhost:4000/steg_for_steg/">Steg för steg</a></li>
+              <li class="divider"></li>
+
+            
+            
+          
+        
+
+              
+
+          
+          
+
+            
+            
+              <li><a  href="http://localhost:4000/utbildning/">Utbildning</a></li>
               <li class="divider"></li>
 
             
@@ -192,19 +291,14 @@
             
 
               <li class="has-dropdown">
-                <a  href="/dokument/">Dokument</a>
+                <a  href="http://localhost:4000/dokument/">Dokument</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a  href="/docs/KvalitetshandbokVavnadsbankenLund.pdf">Kvalitetshandboken</a></li>
-                    
-
-                      
-
-                      <li><a  href="/docs/Avtal_genomförande_av_annat_medicinskt_ändamål.doc">Avtal</a></li>
+                      <li><a  href="http://localhost:4000/docs/KvalitetshandbokVaavnadsbankenLund.pdf">Kvalitetshandboken</a></li>
                     
                   </ul>
 
@@ -221,7 +315,7 @@
 
             
             
-              <li><a  href="/blog/">Nyheter</a></li>
+              <li><a  href="http://localhost:4000/blog/">Nyheter</a></li>
               <li class="divider"></li>
 
             
@@ -235,11 +329,8 @@
           
         
         
-
       </ul>
     </section>
-
-    
   </nav>
 </div><!-- /#navigation -->
 
@@ -252,7 +343,6 @@
 		</div><!-- /.small-12.columns -->
 	</div><!-- /.row -->
 </div><!-- /#masthead -->
-
 
 
 
@@ -326,8 +416,24 @@
 
           <div class="small-6 medium-3 large-3 large-offset-1 columns">
             
+              
+                <h5 class="shadow-black">Om oss</h5>
+              
+            
+              
+            
 
               <ul class="no-bullet shadow-black">
+              
+                
+                  <li >
+                    <a href="http://localhost:4000"  title=""></a>
+                  </li>
+              
+                
+                  <li >
+                    <a href="http://localhost:4000/contact/"  title="Kontakt">Kontakt</a>
+                  </li>
               
               </ul>
           </div><!-- /.large-4.columns -->
@@ -357,7 +463,7 @@
 		
 
 
-<script src="/assets/js/javascript.min.js"></script>
+<script src="http://localhost:4000/assets/js/javascript.min.js"></script>
 
 
 

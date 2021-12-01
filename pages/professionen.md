@@ -5,6 +5,6 @@ lang: sv
 title: "Hemsidan är under konstruktion"
 subheadline: ""
 teaser: ""
+permalink: "/professionen/"
 ---
 
-{% translate_file pages/professionen.md %}

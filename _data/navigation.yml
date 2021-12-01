@@ -1,27 +1,40 @@
-
-- title: menu.public
+- title: Start
   url: "/"
   side: left
 
-#- title: menu.profession
-#  url: "/professionen/"
-#  side: left
+- title: För allmänheten
+  url: "/allmanheten/"
+  side: left
 
-- title: menu.document
+- title: För professionen
+  url: "/professionen/"
+  side: left
+
+- title: Forskning
+  url: "/verksamheten/"
+  side: left
+
+- title: "Steg för steg"
+  url: "/steg_for_steg/"
+  side: left
+
+- title: "Utbildning"
+  url: "/utbildning/"
+  side: left
+
+- title: Dokument
   url: "/dokument/"
   side: left
   dropdown:
   - title: "Kvalitetshandboken"
-    url: "/docs/KvalitetshandbokVavnadsbankenLund.pdf"
-  - title: "Avtal"
-    url: "/docs/Avtal_genomförande_av_annat_medicinskt_ändamål.doc"
- 
+    url: "/docs/KvalitetshandbokVaavnadsbankenLund.pdf"
 
-- title: menu.news
+
+- title: Nyheter
   url: "/blog/"
   side: left
 
 
-- title: menu.contact
+- title: Kontakt
   url: "/kontakt/"
   side: right
