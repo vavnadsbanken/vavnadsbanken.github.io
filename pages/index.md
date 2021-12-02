@@ -51,4 +51,45 @@ Vävnadsbanken genomför medicinsk utredning av möjliga donatorer och utreder s
 Ta initial kontakt med Vävnadsbanken via e-post eller telefon för att diskutera om försöket är lämpligt för operationssalen.  
 </div>
 -----------
+<span style="font-weight: bold;font-size:18px;">2. Etikprövning</span><button type="button" class="btn btn-primary btn-circle" id="steg2"><i class="fa fa-plus"></i></button>
+<div class="content" id="steg2data" markdown="1">              
+Forskning som avser människor eller använder biologiskt material måste enligt [lag](https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/lag-2003460-om-etikprovning-av-forskning-som_sfs-2003-460) ansöka om godkännande hos [Etikprövningsmyndigheten](https://etikprovningsmyndigheten.se).
+</div>
+-----------
+<span style="font-weight: bold;font-size:18px;">3. Projektbeskrivning</span><button type="button" class="btn btn-primary btn-circle" id="steg3"><i class="fa fa-plus"></i></button>
+<div class="content" id="steg3data" markdown="1">              
+Skicka in en projektbeskrivning till Vävnadsbanken bestående av följande dokument:
+-	Beskrivning av studien och dess syfte
+-	Etiskt godkännande
+-	Förenklad information till närstående
+-	Processbeskrivning
+-	Detaljerade instruktioner för tillvaratagande (se punkt 5) om detta skall utföras av Vävnadsbankens personal
 
+
+Beroende på studien behöver vi även:
+- Remissblad
+- Information till levande donatorer eller donatorer under 15 år
+- Instruktioner för hur donatorerna ska avidentifieras
+- Flödesschema om uttaget är tidskritisk
+</div>
+-----------
+<span style="font-weight: bold;font-size:18px;">4. Avtal</span><button type="button" class="btn btn-primary btn-circle" id="steg4"><i class="fa fa-plus"></i></button>
+<div class="content" id="steg4data" markdown="1">              
+Ett [avtal]({{site.baseurl }}{% link docs/Avtal_genomförande_av_annat_medicinskt_ändamål.doc %}) om projektets omfattning och Vävnadsbankens åtagande skall upprättas
+</div>
+-----------
+<span style="font-weight: bold;font-size:18px;">5. Utbildning och instruktioner</span><button type="button" class="btn btn-primary btn-circle" id="steg5"><i class="fa fa-plus"></i></button>
+<div class="content" id="steg5data" markdown="1">              
+Informera och diskutera med Vävnadsbankens personal hur tillvaratagandet ska gå till. Utarbeta instruktioner med text och bild.
+</div>
+-----------
+<span style="font-weight: bold;font-size:18px;"> 6. Information om salen</span><button type="button" class="btn btn-primary btn-circle" id="steg6"><i class="fa fa-plus"></i></button>
+<div class="content" id="steg6data" markdown="1">              
+Ta del av Vävnadsbankens [informationsmaterial]({{site.baseurl}}{% link pages/utbildning.md %}) för att få vistas på operationssalen.
+</div>
+-----------
+<span style="font-weight: bold;font-size:18px;">7. Försök</span><button type="button" class="btn btn-primary btn-circle" id="steg7"><i class="fa fa-plus"></i></button>
+<div class="content" id="steg7data" markdown="1">              
+Boka tider för försöken via [e-post]((mailto:vavnadsbanken@skane.se) ) eller [telefon 046-17 18 83](tel:046-17 18 83). 
+</div>
+-----------
