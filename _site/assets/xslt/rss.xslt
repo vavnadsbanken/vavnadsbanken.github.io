@@ -302,24 +302,8 @@
 
           <div class="small-6 medium-3 large-3 large-offset-1 columns">
             
-              
-                <h5 class="shadow-black">Om oss</h5>
-              
-            
-              
-            
 
               <ul class="no-bullet shadow-black">
-              
-                
-                  <li >
-                    <a href="http://localhost:4000"  title=""></a>
-                  </li>
-              
-                
-                  <li >
-                    <a href="http://localhost:4000/contact/"  title="Kontakt">Kontakt</a>
-                  </li>
               
               </ul>
           </div><!-- /.large-4.columns -->

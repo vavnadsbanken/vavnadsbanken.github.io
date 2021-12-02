@@ -16,9 +16,6 @@ external_url: https://lakartidningen.se/aktuellt/nyheter/2021/11/egen-operations
 
 ---
 
----
-
-
 ## Alla nyheter
 {: .t60 }
 {% include list-posts tag='post format' %}
