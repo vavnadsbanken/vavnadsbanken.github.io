@@ -1,4 +1,4 @@
-I"�<p><em>Feeling Responsive</em> shows metadata by default. The default behaviour can be changed via <code class="language-plaintext highlighter-rouge">config.yml</code>. To show metadata at the end of a page/post just add the following to front matter:
+I"�<p><em>Feeling Responsive</em> shows metadata by default. The default behaviour can be changed via <code class="language-plaintext highlighter-rouge">config.yml</code>. To show metadata at the end of a page/post just add the following to front matter:
 <!--more--></p>
 
 <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>show_meta: true
@@ -15,6 +15,10 @@
 
   
 
+    
+      <li><a href="http://localhost:4000/donationsoperationssalen/media/2021/11/12/sydsvenskan.html"><strong>Sydsvenskan: Här utvinns senor, hjärtklaffar och hornhinnor för att ge bättre liv</strong></a></li>
+    
+      <li><a href="http://localhost:4000/donationsoperationssalen/media/2021/11/12/lakartidningen.html"><strong>Läkartidningen: Egen operationssal ska öka flödet på Vävnadsbanken</strong></a></li>
     
       <li><a href="http://localhost:4000/donationsoperationssalen/2021/11/12/invigning.html">Donationsoperationssalen öppnar &middot; <strong>Fler vävnader ska tas tillvara och nya kirurgiska tekniker utvecklas i ny operationssal på Vävnadsbanken</strong></a></li>
     

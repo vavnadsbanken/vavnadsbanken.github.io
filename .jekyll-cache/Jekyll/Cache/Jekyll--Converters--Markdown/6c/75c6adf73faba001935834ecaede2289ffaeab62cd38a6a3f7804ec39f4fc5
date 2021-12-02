@@ -1,4 +1,4 @@
-I"�<p>You just need to choose a template like the <a href="http://localhost:4000/design/page/"><code class="language-plaintext highlighter-rouge">page</code></a>- or <a href="http://localhost:4000/design/page-fullwidth/"><code class="language-plaintext highlighter-rouge">page-fullwidth</code></a>-template and then just use <code class="language-plaintext highlighter-rouge">{% include gallery %}</code>.
+I"�<p>You just need to choose a template like the <a href="http://localhost:4000/design/page/"><code class="language-plaintext highlighter-rouge">page</code></a>- or <a href="http://localhost:4000/design/page-fullwidth/"><code class="language-plaintext highlighter-rouge">page-fullwidth</code></a>-template and then just use <code class="language-plaintext highlighter-rouge">{% include gallery %}</code>.
 <!--more--></p>
 
 <div>
@@ -88,6 +88,10 @@
 
   
 
+    
+      <li><a href="http://localhost:4000/donationsoperationssalen/media/2021/11/12/sydsvenskan.html"><strong>Sydsvenskan: Här utvinns senor, hjärtklaffar och hornhinnor för att ge bättre liv</strong></a></li>
+    
+      <li><a href="http://localhost:4000/donationsoperationssalen/media/2021/11/12/lakartidningen.html"><strong>Läkartidningen: Egen operationssal ska öka flödet på Vävnadsbanken</strong></a></li>
     
       <li><a href="http://localhost:4000/donationsoperationssalen/2021/11/12/invigning.html">Donationsoperationssalen öppnar &middot; <strong>Fler vävnader ska tas tillvara och nya kirurgiska tekniker utvecklas i ny operationssal på Vävnadsbanken</strong></a></li>
     
