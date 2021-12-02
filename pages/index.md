@@ -51,9 +51,9 @@ Vävnadsbanken genomför medicinsk utredning av möjliga donatorer och utreder s
 Ta initial kontakt med Vävnadsbanken via e-post eller telefon för att diskutera om försöket är lämpligt för operationssalen.  
 </div>
 -----------
-<span style="font-weight: bold;font-size:18px;">1. Kontakt</span><button type="button" class="btn btn-primary btn-circle" id="steg2"><i class="fa fa-plus"></i></button>
+<span style="font-weight: bold;font-size:18px;">2. Etikprövning</span><button type="button" class="btn btn-primary btn-circle" id="steg2"><i class="fa fa-plus"></i></button>
 <div class="content" id="steg2data" markdown="1">              
-Ta initial kontakt med Vävnadsbanken via e-post eller telefon för att diskutera om försöket är lämpligt för operationssalen.  
+Forskning som avser människor eller använder biologiskt material måste enligt [lag](https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/lag-2003460-om-etikprovning-av-forskning-som_sfs-2003-460) ansöka om godkännande hos [Etikprövningsmyndigheten](https://etikprovningsmyndigheten.se). 
 </div>
 -----------
 -----------
