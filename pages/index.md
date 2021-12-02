@@ -73,3 +73,23 @@ Beroende på studien behöver vi även:
 - Flödesschema om uttaget är tidskritisk
 </div>
 -----------
+<span style="font-weight: bold;font-size:18px;">4. Avtal</span><button type="button" class="btn btn-primary btn-circle" id="steg4"><i class="fa fa-plus"></i></button>
+<div class="content" id="steg4data" markdown="1">              
+Ett [avtal]({{site.baseurl }}{% link docs/Avtal_genomförande_av_annat_medicinskt_ändamål.doc %}) om projektets omfattning och Vävnadsbankens åtagande skall upprättas
+</div>
+-----------
+<span style="font-weight: bold;font-size:18px;">5. Utbildning och instruktioner</span><button type="button" class="btn btn-primary btn-circle" id="steg5"><i class="fa fa-plus"></i></button>
+<div class="content" id="steg5data" markdown="1">              
+Informera och diskutera med Vävnadsbankens personal hur tillvaratagandet ska gå till. Utarbeta instruktioner med text och bild.
+</div>
+-----------
+<span style="font-weight: bold;font-size:18px;"> 6. Information om salen</span><button type="button" class="btn btn-primary btn-circle" id="steg6"><i class="fa fa-plus"></i></button>
+<div class="content" id="steg6data" markdown="1">              
+Ta del av Vävnadsbankens [informationsmaterial]({{site.baseurl}}{% link pages/utbildning.md %}) för att få vistas på operationssalen.
+</div>
+-----------
+<span style="font-weight: bold;font-size:18px;">7. Försök</span><button type="button" class="btn btn-primary btn-circle" id="steg7"><i class="fa fa-plus"></i></button>
+<div class="content" id="steg7data" markdown="1">              
+Boka tider för försöken via [e-post]((mailto:vavnadsbanken@skane.se) ) eller [telefon 046-17 18 83](tel:046-17 18 83). 
+</div>
+-----------
