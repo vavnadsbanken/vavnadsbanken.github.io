@@ -55,5 +55,21 @@ Ta initial kontakt med Vävnadsbanken via e-post eller telefon för att diskuter
 <div class="content" id="steg2data" markdown="1">              
 Forskning som avser människor eller använder biologiskt material måste enligt [lag](https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/lag-2003460-om-etikprovning-av-forskning-som_sfs-2003-460) ansöka om godkännande hos [Etikprövningsmyndigheten](https://etikprovningsmyndigheten.se). 
 </div>
------------
+-----------     
+<span style="font-weight: bold;font-size:18px;">3. Projektbeskrivning</span><button type="button" class="btn btn-primary btn-circle" id="steg3"><i class="fa fa-plus"></i></button>
+<div class="content" id="steg3data" markdown="1">          
+Skicka in en projektbeskrivning till Vävnadsbanken bestående av följande dokument:
+-	Beskrivning av studien och dess syfte
+-	Etiskt godkännande
+-	Förenklad information till närstående
+-	Processbeskrivning
+-	Detaljerade instruktioner för tillvaratagande (se punkt 5) om detta skall utföras av Vävnadsbankens personal
+
+
+Beroende på studien behöver vi även:
+- Remissblad
+- Information till levande donatorer eller donatorer under 15 år
+- Instruktioner för hur donatorerna ska avidentifieras
+- Flödesschema om uttaget är tidskritisk
+</div>
 -----------
